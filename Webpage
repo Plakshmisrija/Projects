@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+         <meta charset="utf-8">
+         <title>
+                SET PHOTO
+         </title>
+</head>
+<body  bgcolor="hsl(0, 100%, 50%)">
+<font style="arial" size=50 color="red">WEB PAGE<center></h2</font><br>
+<p><img src="file\C:\html photos">
+</font>
+          <br  />
+          <h3 align="center">
+                   <font face="Lato" size="6">LOGO</font>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   <font face="cinzel" size="4">
+                         <a href="#">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                         <a href="#">VIDEOS</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                         <a href="#">PORTFOLIO</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                         <a href="#">BLOG</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                         <a href="#">CONTACT US</a>
+                   </font>
+          </h3>
+          <br  /><br  /><br  /><br  />
+          <h1 align="centre">
+                  <font face="Lato" color="#017bf5"  size="7">
+                                 CREATING FIRST WEB PAGE         
+                  </font>
+          </h1>
+          <h3 align="center">
+                    <font face="Lato" color="#000" size="5">
+                            USING HTML ONLY
+                   </font>
+          </h3>
+          <br  />
+          <h3 align="center">
+          <a href="#">
+                  <font face="Lato" color="#000">GET STARTED</font>
+          </a>
+          </h3>
+          </body>
+          </html>
+          
+
+
