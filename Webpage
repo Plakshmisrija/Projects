@@ -6,9 +6,9 @@
                 SET PHOTO
          </title>
 </head>
-<body  bgcolor="hsl(0, 100%, 50%)">
+<body  bgcolor= white>
 <font style="arial" size=50 color="red">WEB PAGE<center></h2</font><br>
-<p><img src="file\C:\html photos">
+<p><img src="https://i.pinimg.com/736x/cb/c8/57/cbc85799b7ef05eca1cf58cef97c9f0a.jpg">
 </font>
           <br  />
           <h3 align="center">
@@ -27,7 +27,7 @@
           </h3>
           <br  /><br  /><br  /><br  />
           <h1 align="centre">
-                  <font face="Lato" color="#017bf5"  size="7">
+                  <font face="Lato" color="red"  size="7">
                                  CREATING FIRST WEB PAGE         
                   </font>
           </h1>
